@@ -1,0 +1,35 @@
+.h1{
+    text-align:center;
+    font-family:Montserrat;
+  }
+  .desc{
+    text-align:center;
+    color: blue;
+    font-family:PT Sans;
+    font-size:25px;
+  }
+  .photo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height:45%;
+  }
+  .more{
+      text-align:left;
+      color: #9F64C6;
+      padding-left: 33%;
+      font-family:Roboto;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+  #mm{
+    color:#69ABB0;
+    font-size: 35px;
+  }
+  img{
+    height:200px;
+    width: 200px;
+    border-radius: 30px;
+    padding: 20px 20px 20px 20px;
+  }
